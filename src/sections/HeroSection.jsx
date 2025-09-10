@@ -1,7 +1,6 @@
-
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
-import { SplitText } from "gsap/SplitText";
+import { SplitText } from "gsap/all";
 import { useMediaQuery } from "react-responsive";
 
 const HeroSection = () => {
@@ -103,7 +102,7 @@ const HeroSection = () => {
           </div>
 
           <h2>
-            Live life to the fullest  with SPYLT: Shatter boredom and embrace
+            Live life to the fullest with SPYLT: Shatter boredom and embrace
             your inner kid with every deliciously smooth chug.
           </h2>
 

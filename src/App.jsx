@@ -12,6 +12,7 @@ import FooterSection from "./sections/FooterSection";
 
 gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
 
+
 const App = () => {
   useGSAP(() => {
     ScrollSmoother.create({
