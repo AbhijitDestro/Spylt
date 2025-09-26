@@ -2,12 +2,6 @@
 
 This project is all about building a modern, award-worthy website inspired by Awwwards Site of the Day winners. Using the power of GSAP (GreenSock Animation Platform), you’ll create smooth animations, engaging transitions, and interactive scroll effects. Paired with ReactJS for component-based development and Tailwind CSS for styling, this setup allows you to design a visually stunning and responsive website that feels dynamic and professional.
 
-⚙️ How to Download the Code
-
-Clone the repository:
-
-git clone https://github.com/FullStackEmpire/gsap-awwwards-website.git
-
 
 Navigate into the project folder:
 
